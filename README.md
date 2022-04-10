@@ -1,8 +1,8 @@
 # CraftedPackets
 
-<h5>ARP:</h5><br />
+<h4>ARP:</h4><br />
 Crafted ARP packet sender and receiver<br />
 <br />
-<h5>ICMP:</h5><br />
+<h4>ICMP:</h4><br />
 Python implementation of ping command (echo request)<br />
-To do: add timestamps to ICMP header<br />
+**To do:** add timestamps to ICMP header<br />
